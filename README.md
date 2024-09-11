@@ -26,7 +26,7 @@ I am a **[Software Engineer]** with experience in **[blockchain, VPN services]**
 - Contribute to major open-source projects.
 
 ### 📊 Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lnkssr&amp;show_icons=true&amp;theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lnkssr&amp;show_icons=true&amp;theme=dark)
 
 ---
 
