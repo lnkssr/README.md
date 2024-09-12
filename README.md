@@ -8,8 +8,8 @@
 I am a **[Software Engineer]** with experience in **[blockchain, VPN services]**. I enjoy creating open-source projects, exploring new technologies, and sharing my knowledge.
 
 ### 🔭 My Current Projects:
-- [Project 1](https://codeberg.org/lnkssr/rblockchain) — A blockchain library in Rust.
-- [Project 2](https://codeberg.org/lnkssr/pogoda) — A CLI application for tracking weather.
+- [Project 1]([https://codeberg.org/lnkssr/rblockchain](https://github.com/lnkssr/rblk)) — A blockchain library in Rust.
+- [Project 2]([https://codeberg.org/lnkssr/pogoda](https://github.com/lnkssr/pogoda)) — A CLI application for tracking weather.
 
 ### 🛠️ My Skills:
 - Programming Languages: **Python, Rust, C++**.
