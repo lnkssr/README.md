@@ -28,6 +28,8 @@ I am a **[Software Engineer]** with experience in **[blockchain, VPN services]**
 ### 📊 Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lnkssr&amp;show_icons=true&amp;theme=dark)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lnkssr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 *Made with ❤️ by [lnkssr](https://github.com/lnkssr)*
